@@ -4,7 +4,10 @@ import java.util.Arrays;
 import java.util.Set;
 import java.util.stream.Stream;
 
-import static com.dubreuia.model.ActionType.*;
+import static com.dubreuia.model.ActionType.activation;
+import static com.dubreuia.model.ActionType.build;
+import static com.dubreuia.model.ActionType.global;
+import static com.dubreuia.model.ActionType.java;
 import static java.util.stream.Collectors.toSet;
 
 public enum Action {
