@@ -8,8 +8,7 @@ import com.intellij.ui.ToolbarDecorator;
 import com.intellij.ui.components.JBList;
 import org.jetbrains.annotations.NotNull;
 
-import javax.swing.DefaultListModel;
-import javax.swing.JPanel;
+import javax.swing.*;
 import java.util.Collection;
 import java.util.Enumeration;
 import java.util.Set;
